@@ -1,0 +1,23 @@
+/* ----------- Mobile phones larger than 400px wide ----------- */
+@media (min-width:400px) {
+  body {
+    background:red;
+  }
+}
+
+/* ----------- Tablets larger than 768px wide ----------- */
+@media (min-width:768px) {
+	background: green;
+}
+}
+/* ----------- Monitors larger than 1200px wide ----------- */
+@media (min-width:1200px) {
+	background: blue;
+}
+}
+
+/* ----------- Large Monitors larger than 1600px wide ----------- */
+@media (min-width:1600px) {
+	background: yellow;
+}
+}
